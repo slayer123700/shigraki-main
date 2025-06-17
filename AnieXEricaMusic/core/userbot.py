@@ -6,7 +6,7 @@ from pyrogram.raw.functions.messages import DeleteHistory
 from pyrogram.types import Message
 import config
 
-from ..logging import LOGGER
+from AnieXEricaMusic.logging import LOGGER
 
 assistants = []
 assistantids = []
